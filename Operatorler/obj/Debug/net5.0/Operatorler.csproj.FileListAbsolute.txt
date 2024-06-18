@@ -1,0 +1,15 @@
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\refint\Operatorler.dll
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
+C:\Users\caner\OneDrive\Masaüstü\Patika\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
