@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\bin\Debug\net5.0\HazirStringMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\refint\HazirStringMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\HazirStringMetotlar.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirStringMetotlar\obj\Debug\net5.0\ref\HazirStringMetotlar.dll
