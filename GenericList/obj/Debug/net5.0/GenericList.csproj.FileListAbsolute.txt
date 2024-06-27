@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\bin\Debug\net5.0\GenericList.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\refint\GenericList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\GenericList\obj\Debug\net5.0\ref\GenericList.dll

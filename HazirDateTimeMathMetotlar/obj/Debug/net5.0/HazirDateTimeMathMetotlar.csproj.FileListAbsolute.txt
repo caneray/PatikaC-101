@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\bin\Debug\net5.0\HazirDateTimeMathMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\refint\HazirDateTimeMathMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\HazirDateTimeMathMetotlar.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\HazirDateTimeMathMetotlar\obj\Debug\net5.0\ref\HazirDateTimeMathMetotlar.dll
