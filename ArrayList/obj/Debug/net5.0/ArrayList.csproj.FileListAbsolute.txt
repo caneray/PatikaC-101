@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\bin\Debug\net5.0\ArrayList.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\refint\ArrayList.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ArrayList.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\ArrayList\obj\Debug\net5.0\ref\ArrayList.dll

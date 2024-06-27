@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\bin\Debug\net5.0\Odev2_1.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\refint\Odev2_1.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\Odev2_1.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_1\obj\Debug\net5.0\ref\Odev2_1.dll

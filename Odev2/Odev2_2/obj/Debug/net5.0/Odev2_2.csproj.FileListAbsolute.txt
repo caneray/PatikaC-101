@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\bin\Debug\net5.0\Odev2_2.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\refint\Odev2_2.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\Odev2_2.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Odev2_2\obj\Debug\net5.0\ref\Odev2_2.dll
