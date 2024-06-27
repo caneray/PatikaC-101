@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\refint\KurucuMetotlar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\KurucuMetotlar\obj\Debug\net5.0\ref\KurucuMetotlar.dll
