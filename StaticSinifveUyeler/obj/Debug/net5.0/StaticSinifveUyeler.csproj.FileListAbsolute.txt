@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\bin\Debug\net5.0\StaticSinifveUyeler.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\refint\StaticSinifveUyeler.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\StaticSinifveUyeler.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StaticSinifveUyeler\obj\Debug\net5.0\ref\StaticSinifveUyeler.dll

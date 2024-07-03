@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\bin\Debug\net5.0\StructYapilar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\refint\StructYapilar.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\StructYapilar.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\StructYapilar\obj\Debug\net5.0\ref\StructYapilar.dll

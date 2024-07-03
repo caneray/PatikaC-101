@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSinifveUyeler", "StaticSinifveUyeler.csproj", "{FE0DF892-4B51-437D-AF10-D5955ABDA9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0DF892-4B51-437D-AF10-D5955ABDA9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0DF892-4B51-437D-AF10-D5955ABDA9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0DF892-4B51-437D-AF10-D5955ABDA9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0DF892-4B51-437D-AF10-D5955ABDA9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E483F20-A787-45C4-95A9-98CD618E04A3}
+	EndGlobalSection
+EndGlobal
