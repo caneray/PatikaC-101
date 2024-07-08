@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\bin\Debug\net5.0\Arayuzler_Interface.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\refint\Arayuzler_Interface.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\Arayuzler_Interface.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\Arayuzler_Interface\obj\Debug\net5.0\ref\Arayuzler_Interface.dll
