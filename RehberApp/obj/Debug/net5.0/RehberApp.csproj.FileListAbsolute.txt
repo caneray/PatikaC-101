@@ -1,0 +1,15 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.runtimeconfig.dev.json
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\bin\Debug\net5.0\RehberApp.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\refint\RehberApp.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\RehberApp.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharp101\RehberApp\obj\Debug\net5.0\ref\RehberApp.dll
